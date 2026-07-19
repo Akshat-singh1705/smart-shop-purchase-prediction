@@ -149,7 +149,7 @@ The F1 Score was used as the primary evaluation metric because of the imbalanced
 Smart-Shop-Ecommerce-Purchase-Prediction/
 │
 ├── dataset/
-│   └── online_shoppers_intention.csv
+│   └── shop_smart_ecommerse.csv
 │
 ├── smart_shop_ecommerce.ipynb
 ├── README.md
